@@ -1,0 +1,14 @@
+{
+    "ip": "pvpshkaXXX.aternos.me",
+    "port": 50998,
+    "name": "24\\7 nonban!",
+    "auto-night-skip": "false",
+    "join-msg": "server hosted 24/7",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "subscribe to TheSunSky13",
+    "custom-message-2": "subscribe to TheSunSky13",
+    "login-enabled": "true",
+    "register-cmd": "/register 247 247",
+    "login-cmd": "/login 247"
+}
